@@ -1,3 +1,20 @@
+/*
+Color Palette::
+#E8DFE0 - CREAM
+#8D9B6A - GREEN
+#8A9EA7 - BLUE
+#DAB682 - TAN
+#8F5B34 - BROWN
+*/
+
+* {
+    border: 1px solid black;
+}
+
 body {
-    background: blue;
+    background: #E8DFE0;
+}
+
+.flex-container {
+    flex-direction: column;
 }
